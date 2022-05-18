@@ -2,3 +2,4 @@ hello git!
 hello hot-fix! master test
 hello git again! hot-fix test
 hello github!
+hello clone!
